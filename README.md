@@ -64,7 +64,7 @@ baseurl: "/portfolio_2025"
 ```make
 # Configuration, override port with usage: make PORT=4200
 PORT ?= 4887
-REPO_NAME ?= flocker_frontend 
+REPO_NAME ?= BigIdeaTeamTeach
 LOG_FILE = /tmp/jekyll$(PORT).log
 ```
 

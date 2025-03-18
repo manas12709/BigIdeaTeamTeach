@@ -1,9 +1,9 @@
-title: DNHS Flocker
+title: Team Teach
 description: "Social Media for Del Norte High School"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "flocker_frontend" 
-baseurl: "/flocker_frontend"
+owner_name: Manas Goel
+github_username: manas12709
+github_repo: "BigIdeaTeamTeach" 
+baseurl: "/BigIdeaTeamTeach"
 future: true
 remote_theme: jekyll/minima
 minima:
@@ -17,8 +17,3 @@ plugins:
   - jekyll-remote-theme
 header_pages:
   - navigation/TeamTeach.md
-  - navigation/shared_interests/home.md
-  - navigation/create_and_compete/home.md
-  - navigation/voteforthegoat/home.md
-  - navigation/share_and_care/home.md
-  - navigation/rate_and_relate/home.md
