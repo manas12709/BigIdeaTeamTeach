@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flocker Social Media Site 
+title: Team Teach By Manas, Arhaan, Ahmad 
 search_exclude: true
-description: Login and explore our social media hub for everything DNHS 
+description: Teaching Big Idea5 - Beneficial / Harmful Effects, and Big Idea3 - Lists and Filtering Algorithm
 hide: true
 menu: nav/home.html
 ---
