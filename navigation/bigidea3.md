@@ -6,6 +6,7 @@ permalink: /teach/bigidea
 comments: true
 ---
 
+
 # Beneficial and Harmful Effects of Computing Innovations
 
 Computing innovations significantly impact our society, yielding both beneficial outcomes and unintended harmful consequences. It's essential to understand these effects to responsibly leverage technology.
