@@ -21,9 +21,8 @@ Computing innovations have revolutionized healthcare:
 - **Improved Medical Procedures:** Advanced computing allows precise surgeries and effective treatment plans.
 - **Data-Driven Healthcare:** Enhanced data collection leads to better diagnostic accuracy and patient care.
 
-```html
-<img width="454" alt="Healthcare" src="https://github.com/user-attachments/assets/42285b0a-f1d6-46dc-9bae-a49d945b2db3"/>
-```
+<img src="{{site.baseurl}}/images/ok.png" alt="Medical Achievements">
+
 
 ### 2. Enhanced Business Efficiency
 Technology optimizes business processes through:
@@ -31,9 +30,9 @@ Technology optimizes business processes through:
 - **Data Analytics:** Businesses collect and analyze large datasets for improved decision-making.
 - **Automation:** Reduces human error and increases productivity.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Data_visualization_process_v1.png" alt="Business Analytics" width="600">
-```
+
+<img src="{{site.baseurl}}/images/lol.png" alt="Business Efficiency">
+
 
 ### 3. Artistic and Creative Expansion
 Computing supports creativity and the arts by:
