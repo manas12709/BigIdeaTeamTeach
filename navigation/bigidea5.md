@@ -55,6 +55,10 @@ Multirotor drones offer significant practical benefits:
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Wing_Drone_delivery.jpg" alt="Drone Delivery" width="600">
 ```
 
+# Popcorn Hack # 1
+
+**How do technological innovations impact society in both positive and negative ways? provide an example.**
+
 ---
 
 ## Harmful Effects
@@ -108,6 +112,10 @@ Despite their advantages, drones also introduce new challenges:
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/No_Drone_Zone_Sign.jpg" alt="Drone Risk" width="600">
 ```
 
+## Popcorn Hack # 2
+
+**What is the meaning of negative effects of technology, and how can we use responsible programming to avoid and reduce these unintended harmful impacts**
+
 ---
 
 ## Unintended Consequences
@@ -148,6 +156,10 @@ Social media platforms intentionally trigger dopamine release, creating addictiv
 - **Mindfulness and Self-awareness:** Regular reflection on technology use can help identify problematic patterns.
 
 - **Seek Professional Help:** If addiction becomes severe, professional counseling can provide effective strategies.
+
+## Popcorn Hack # 3
+
+**Why is it important to understand the unintended consequences of technology, especially dopamine-driven technology?**
 
 ---
 
