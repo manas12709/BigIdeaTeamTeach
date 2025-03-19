@@ -170,7 +170,7 @@ While computing innovations offer tremendous benefits across various fields, it 
 
 # Homework Hacks
 ## Homework Hack #1: Rethinking AI for New Uses
-- Task: AI is often used in ways it wasn’t originally designed for. Your job is to explore how an AI creation can be re-used for a new function.
+- Task: AI is often used in new ways that weren’t planned. Your job is to think of a new way to use an AI invention.
 
 ### Steps to Complete
 -  Choose an AI technology (e.g., Chatbots, Self-driving Cars, Facial Recognition).
@@ -187,7 +187,7 @@ Impact:
 - Benefits – Increases food production, reduces human labor.
 - Risks – May take jobs from farmers, expensive to implement.
 ## Homework Hack #2: Ethical AI Coding Challenge
-- Task: As an AI developer, your job is to design an AI system that reduces unintended harm.
+- Task: AI can cause problems if not designed well. Your job is to find a problem AI has caused and think of ways to fix it.
 
 ### Steps to Complete
 - Identify a Problem – Choose an AI issue (e.g., job loss, bias in hiring, misinformation).
@@ -197,10 +197,10 @@ Impact:
 
 ### Example Response:
 
-- Problem: AI in hiring software may favor certain groups over others.
+- Problem: AI in hiring software, may favor certain groups over others.
 - Risk: Biased hiring can make it harder for qualified people to get jobs.
-- Solution 1: Use diverse training data to reduce bias in AI decisions.
-- Solution 2: Have human oversight to review AI-generated recommendations.
+- Solution 1: Use different kinds of training data to reduce bias in AI decisions.
+- Solution 2: Have the human brain to review AI-generated recommendations.
 - Reflection: AI is powerful, but it should be fair and transparent to avoid discrimination. Ethical programming ensures technology helps everyone.
 
 ## Homework Hack #3: AI & Unintended Consequences Research Task
@@ -215,7 +215,7 @@ Impact:
 ### Example Response:
 
 - AI Example: YouTube’s recommendation system.
-- What Happened: It was designed to keep users engaged but ended up spreading misinformation and extreme content.
+- What Happened: It was designed to keep users engaged but ended up spreading misinformation and harmful content.
 - Response: YouTube changed its algorithm to reduce harmful recommendations.
 - Prevention: AI developers should have tested for harmful patterns before launching the system.
 
