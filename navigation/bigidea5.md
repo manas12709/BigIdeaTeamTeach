@@ -22,7 +22,7 @@ Computing innovations have revolutionized healthcare:
 - **Data-Driven Healthcare:** Enhanced data collection leads to better diagnostic accuracy and patient care.
 
 ```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Operating_Room_at_Brigham_and_Women%27s_Hospital.jpg" alt="Medical Technology" width="600">
+<img width="454" alt="Healthcare" src="https://github.com/user-attachments/assets/42285b0a-f1d6-46dc-9bae-a49d945b2db3"/>
 ```
 
 ### 2. Enhanced Business Efficiency
