@@ -167,3 +167,61 @@ Social media platforms intentionally trigger dopamine release, creating addictiv
 
 While computing innovations offer tremendous benefits across various fields, it is crucial to remain aware of their potential harms. Conscious and responsible use of technology can mitigate negative impacts and ensure it serves society positively.
 
+
+# Homework Hacks
+## Homework Hack #1: Rethinking AI for New Uses
+- Task: AI is often used in ways it wasn’t originally designed for. Your job is to explore how an AI creation can be re-used for a new function.
+
+### Steps to Complete
+-  Choose an AI technology (e.g., Chatbots, Self-driving Cars, Facial Recognition).
+- Research & Explain how it was originally intended to be used.
+-  Create a New Use Case – How could this AI be used differently than planned?
+- Analyze the Impact – List two benefits and two risks of this alternative use.
+
+### Example Response:
+
+- AI Innovation: Self-driving cars.
+- Original Use: Designed for transportation.
+- New Use Case: Used in farming to automate harvesting crops.
+Impact:
+- Benefits – Increases food production, reduces human labor.
+- Risks – May take jobs from farmers, expensive to implement.
+## Homework Hack #2: Ethical AI Coding Challenge
+- Task: As an AI developer, your job is to design an AI system that reduces unintended harm.
+
+### Steps to Complete
+- Identify a Problem – Choose an AI issue (e.g., job loss, bias in hiring, misinformation).
+- Describe the Risk – How does this AI create harm in society?
+- Propose Two Solutions – What programming techniques or policies could reduce this risk?
+- Write a Short Reflection (3-5 sentences) – Why is ethical AI development important?
+
+### Example Response:
+
+- Problem: AI in hiring software may favor certain groups over others.
+- Risk: Biased hiring can make it harder for qualified people to get jobs.
+- Solution 1: Use diverse training data to reduce bias in AI decisions.
+- Solution 2: Have human oversight to review AI-generated recommendations.
+- Reflection: AI is powerful, but it should be fair and transparent to avoid discrimination. Ethical programming ensures technology helps everyone.
+
+## Homework Hack #3: AI & Unintended Consequences Research Task
+- Task: Many AI systems have unexpected effects on society. Your goal is to find and analyze a real-world AI example that led to unintended consequences.
+
+### Steps to Complete
+- Find an Example – Research an AI-related news story where technology had unintended effects.
+- Summarize What Happened – Explain the AI’s purpose and the issue it caused.
+- Evaluate the Response – Did companies or governments take action to fix the issue?
+- Propose a Preventative Measure – How could developers have avoided this problem?
+
+### Example Response:
+
+- AI Example: YouTube’s recommendation system.
+- What Happened: It was designed to keep users engaged but ended up spreading misinformation and extreme content.
+- Response: YouTube changed its algorithm to reduce harmful recommendations.
+- Prevention: AI developers should have tested for harmful patterns before launching the system.
+
+
+
+
+
+
+
