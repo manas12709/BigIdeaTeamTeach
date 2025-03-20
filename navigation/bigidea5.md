@@ -110,6 +110,7 @@ Despite their advantages, drones also introduce new challenges:
 
 <img src="{{site.baseurl}}/images/nodrone.png" alt="Drone Risk" width="600">
 
+<a href="https://www.youtube.com/watch?v=6AMXkFqi2Tk">Popular Artist Drake Loosing His Privacy</a>
 
 ## Popcorn Hack # 2
 
