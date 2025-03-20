@@ -21,7 +21,7 @@ Computing innovations have revolutionized healthcare:
 - **Improved Medical Procedures:** Advanced computing allows precise surgeries and effective treatment plans.
 - **Data-Driven Healthcare:** Enhanced data collection leads to better diagnostic accuracy and patient care.
 
-<img src="{{site.baseurl}}/images/ok.png" alt="Medical Achievements">
+<img src="{{site.baseurl}}/images/ok.png" alt="Medical Achievements" width="600">
 
 
 ### 2. Enhanced Business Efficiency
@@ -31,7 +31,7 @@ Technology optimizes business processes through:
 - **Automation:** Reduces human error and increases productivity.
 
 
-<img src="{{site.baseurl}}/images/lol.png" alt="Business Efficiency">
+<img src="{{site.baseurl}}/images/lol.png" alt="Business Efficiency" width="600">
 
 
 ### 3. Artistic and Creative Expansion
@@ -40,9 +40,9 @@ Computing supports creativity and the arts by:
 - **Digital Art Platforms:** Allowing artists to create, showcase, and monetize their work globally.
 - **Creative Collaboration:** Digital platforms foster artistic collaboration across distances.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Digital_Painting_Workstation.jpg" alt="Digital Art Creation" width="600">
-```
+
+<img src="{{site.baseurl}}/images/digital.png" alt="Digital Art Creation" width="600">
+
 
 ### 4. Convenience and Efficiency (Example: Drones)
 Multirotor drones offer significant practical benefits:
@@ -50,9 +50,9 @@ Multirotor drones offer significant practical benefits:
 - **Fast Delivery Services:** Improve the speed and efficiency of deliveries.
 - **Aerial Photography:** Enable innovative filming and surveying techniques.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Google_Wing_Drone_delivery.jpg" alt="Drone Delivery" width="600">
-```
+
+<img src="{{site.baseurl}}/images/drone.png" alt="Drone Delivery" width="600">
+
 
 # Popcorn Hack # 1
 
@@ -67,9 +67,9 @@ Digital connectivity can lead to cyberbullying, negatively impacting mental heal
 
 - **Increased Psychological Stress:** Victims suffer anxiety, depression, and social isolation.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cyberbullying.jpg" alt="Cyberbullying" width="600">
-```
+
+<img src="{{site.baseurl}}/images/cyber.png" alt="Cyberbullying" width="600">
+
 
 ### 2. Privacy Loss
 Growing digitalization raises serious privacy concerns:
@@ -77,9 +77,9 @@ Growing digitalization raises serious privacy concerns:
 - **Data Exploitation:** Personal data collection by companies without clear user consent.
 - **Surveillance:** Increased monitoring through digital devices can infringe on individual privacy.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Data_Privacy.jpg" alt="Privacy Concern" width="600">
-```
+
+<img src="{{site.baseurl}}/images/data.png" alt="Privacy Concern" width="600">
+
 
 ### 3. Dependence on Technology
 Over-reliance on technology, particularly artificial intelligence (AI), poses significant risks:
@@ -87,9 +87,9 @@ Over-reliance on technology, particularly artificial intelligence (AI), poses si
 - **Reduced Critical Thinking:** Excessive dependency prevents users from developing essential analytical skills.
 - **Loss of Research Skills:** Dependence on AI for answers diminishes original research abilities.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Addicted_to_Technology.jpg" alt="Technology Dependence" width="600">
-```
+
+<img src="{{site.baseurl}}/images/addicted.png" alt="Technology Dependence" width="600">
+
 
 ### 4. Economic Impact: Job Displacement
 Automation and computing innovations may negatively impact employment:
@@ -97,9 +97,9 @@ Automation and computing innovations may negatively impact employment:
 - **Job Losses:** Automation can replace human labor, leading to unemployment and economic strain.
 - **Economic Inequality:** Technology-driven job displacement disproportionately affects low-skilled workers.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Factory_Automation_Robotics.jpg" alt="Job Automation" width="600">
-```
+
+<img src="{{site.baseurl}}/images/auto.png" alt="Job Automation" width="600">
+
 
 ### 5. Negative Implications (Example: Drones)
 Despite their advantages, drones also introduce new challenges:
@@ -107,9 +107,9 @@ Despite their advantages, drones also introduce new challenges:
 - **Privacy Violations:** Unauthorized aerial photography and surveillance can violate privacy rights.
 - **Safety Risks:** Flying drones in restricted areas poses physical dangers to aircraft and public safety.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/No_Drone_Zone_Sign.jpg" alt="Drone Risk" width="600">
-```
+
+<img src="{{site.baseurl}}/images/nodrone.png" alt="Drone Risk" width="600">
+
 
 ## Popcorn Hack # 2
 
@@ -137,9 +137,9 @@ Despite their advantages, drones also introduce new challenges:
   - Autonomous driving optimizes routes, reducing fuel consumption and emissions.
   - Potential increase in the adoption of electric and sustainable vehicles.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Waymo_self-driving_car_front_view.gk.jpg" alt="Self-driving car" width="600">
-```
+
+<img src="{{site.baseurl}}/images/waymo.png" alt="Self-driving car" width="600">
+
 
 ---
 
@@ -161,9 +161,9 @@ Despite their advantages, drones also introduce new challenges:
   - Significant initial investment in infrastructure upgrades.
   - Potential increased maintenance costs due to advanced technology.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Self_driving_car_-_Cybersecurity.jpg" alt="Self-driving car risks" width="600">
-```
+
+<img src="{{site.baseurl}}/images/dangerself.png" alt="Self-driving car risks" width="600">
+
 
 ---
 
@@ -187,9 +187,9 @@ Social media platforms intentionally trigger dopamine release, creating addictiv
 - **Health Issues:** Excessive use leads to sleep deprivation, anxiety, depression, and loneliness.
 - **Productivity Loss:** Users often find themselves distracted, reducing their efficiency in tasks.
 
-```html
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Social_Media_Addiction.png" alt="Social Media Addiction" width="600">
-```
+
+<img src="{{site.baseurl}}/images/social.png" alt="Social Media Addiction" width="600">
+
 ## Dopamine: Beneficial and Harmful Effects
 
 ### Beneficial Effects
