@@ -15,6 +15,9 @@ Computing innovations significantly impact our society, yielding both beneficial
 
 ## Beneficial Effects
 
+<a href="https://www.youtube.com/watch?v=jbKSvOfqxF0&t=46s">Future Benefical Effects</a>
+
+
 ### 1. Medical Advancements
 Computing innovations have revolutionized healthcare:
 
@@ -61,6 +64,8 @@ Multirotor drones offer significant practical benefits:
 ---
 
 ## Harmful Effects
+
+<a href="https://www.youtube.com/shorts/WstkiHTzYCA">Elon Musk warning us about AI</a>
 
 ### 1. Cyberbullying
 Digital connectivity can lead to cyberbullying, negatively impacting mental health:
