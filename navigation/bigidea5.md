@@ -232,6 +232,9 @@ While computing innovations offer tremendous benefits across various fields, it 
 
 
 # Homework Hacks
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc2_WH00zgNqXKpzQaTyxAnjmFKqnMeUzIavHge9heOfpZeMA/viewform?usp=dialog">MCQ Google Form</a>
+
 ## Homework Hack #1: Rethinking AI for New Uses
 - Task: AI is often used in new ways that weren’t planned. Your job is to think of a new way to use an AI invention.
 
