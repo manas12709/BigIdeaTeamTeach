@@ -103,6 +103,7 @@ Automation and computing innovations may negatively impact employment:
 - **Economic Inequality:** Technology-driven job displacement disproportionately affects low-skilled workers.
 
 
+
 <img src="{{site.baseurl}}/images/auto.png" alt="Job Automation" width="600">
 
 
