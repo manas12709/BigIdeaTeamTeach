@@ -111,7 +111,7 @@ Create Python code that:
 - Filters out and displays numbers divisible by 3 but not by 5.
 - Prints both the original and filtered lists clearly.
 
-**Homework Hack #3 (Bonus Challenge):**
+**Homework Hack #3**
 Develop a function named `filter_spotify_data` that:
 
 - Reads data from the [Spotify Global Streaming Data 2024 CSV](https://www.kaggle.com/datasets/atharvasoundankar/spotify-global-streaming-data-2024).
