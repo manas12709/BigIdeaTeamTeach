@@ -9,91 +9,110 @@ comments: true
 ## Lesson: Lists and Filtering Algorithms
 
 ### Learning Objectives
-- Clearly understand list structures in Python.
-- Implement basic list operations and methods.
-- Apply simple filtering algorithms to lists.
+- Thoroughly understand Python lists, their properties, and how to manipulate them.
+- Master various list operations and methods.
+- Accurately apply and evaluate filtering algorithms.
+- Analyze the performance and efficiency of filtering algorithms.
 
 ---
 
 ### Introduction to Lists
 
-A **list** in Python is an ordered collection of items that can include different data types, such as integers, strings, and booleans. Lists are defined using square brackets `[]`.
+A **list** in Python is an ordered, mutable collection of elements that can hold multiple data types simultaneously, such as integers, floats, strings, and booleans. Lists are highly versatile and are enclosed within square brackets `[]`.
 
-**Creating and Accessing Lists:**
+**Creating Lists:**
 ```python
-fruits = ["apple", "banana", "cherry", "date"]
-print(fruits[0])  # Output: apple
-print(fruits[-1]) # Output: date
+# Example list containing multiple data types
+example_list = [42, 3.1415, "Python", True]
+print(example_list)
+```
+
+**Accessing List Elements:**
+- Positive indexing (starts from 0).
+- Negative indexing (starts from -1, referring to the last element).
+```python
+colors = ["red", "green", "blue", "yellow"]
+print(colors[2])  # Output: blue
+print(colors[-1]) # Output: yellow
 ```
 
 **Modifying Lists:**
+You can change, add, or remove elements.
 ```python
-fruits[1] = "blueberry"
-print(fruits)  # Output: ["apple", "blueberry", "cherry", "date"]
+colors[1] = "purple"   # Changing element
+colors.append("orange") # Adding element
+colors.remove("red")   # Removing element
+print(colors)  # Output: ['purple', 'blue', 'yellow', 'orange']
 ```
 
-### Popcorn Hack #1 (3 minutes)
-Create a list named `pets` containing three types of pets. Write Python code to display the first pet from your list.
+### Popcorn Hack #1 (5 minutes)
+Create a list named `movies` containing your four favorite movies. Write Python code to replace the second movie with a new movie, add another movie to the list, and display the updated list.
 
 ---
 
 **Engaging Video:**
-Watch this short video on Python lists to reinforce your understanding:
-[Python Lists Explained](https://www.youtube.com/watch?v=ohCDWZgNIU0)
+Enhance your understanding of lists with this comprehensive tutorial:
+[Complete Python List Tutorial](https://www.youtube.com/watch?v=ohCDWZgNIU0)
 
 ---
 
 ### Filtering Algorithms
-Filtering involves selecting items from a list based on certain conditions.
+Filtering algorithms selectively extract elements from a list based on defined conditions.
 
-**Example:** Selecting odd numbers:
+**Basic Example:** Filtering even numbers:
 ```python
-numbers = [1, 2, 3, 4, 5, 6]
-odd_numbers = [num for num in numbers if num % 2 != 0]
-print(odd_numbers)  # Output: [1, 3, 5]
+numbers = [11, 14, 18, 23, 29, 32, 40]
+even_numbers = [num for num in numbers if num % 2 == 0]
+print(even_numbers)  # Output: [14, 18, 32, 40]
 ```
 
-### Popcorn Hack #2 (5 minutes)
-Given the list `grades = [88, 92, 70, 85, 60]`, write code to display grades higher than 80.
+### Popcorn Hack #2 (8 minutes)
+Given the list `ages = [15, 20, 34, 16, 18, 21, 14, 19]`, write Python code to create a new list containing only ages that are eligible for voting (18 or older).
 
 ---
 
 **Engaging Video:**
-Watch this brief tutorial on filtering lists:
-[Filtering Lists in Python](https://www.youtube.com/watch?v=3dt4OGnU5sM)
+Understand filtering clearly with this short video:
+[How to Filter Lists in Python](https://www.youtube.com/watch?v=3dt4OGnU5sM)
 
 ---
 
-### Efficiency Considerations
-Simple filtering algorithms usually check each item once, making their time complexity O(n), with n being the list length.
+### Efficiency and Performance of Filtering Algorithms
+Filtering typically requires iterating through the entire list once. This linear iteration results in a time complexity of O(n), where n is the number of elements in the list.
+
+**Performance Consideration:**
+- Filtering larger datasets will take proportionally more time.
+- Understanding efficiency helps optimize performance, particularly for large-scale applications.
 
 ---
 
 ### Homework Hacks
 
 **Homework Hack #1:**
-Create a list `temperatures = [65, 70, 75, 80, 85]`. Write code to filter and display temperatures above 72.
+Watch both the videos and write notes on them
+- 3 bullet points per video 
+- If you have more than 6 bullet points per video you will be rewarded
 
 **Homework Hack #2:**
-Write Python code that:
-- Creates a list with numbers from 1 to 20.
-- Filters numbers divisible by 4.
-- Prints the resulting list.
+Create Python code that:
+- Initializes a list containing numbers from 1 to 30.
+- Filters out and displays numbers divisible by 3 but not by 5.
+- Prints both the original and filtered lists clearly.
 
 **Homework Hack #3 (Bonus Challenge):**
-Create a function `short_words`:
-- Takes a list of words as input.
-- Returns words with fewer than 5 letters.
-- Demonstrate your function with a sample list.
+Develop a function named `filter_long_names` that:
+- Accepts a list of names and a number representing minimum name length.
+- Returns a new list containing only names that meet or exceed the minimum length.
+- Test your function with a provided list of your choice.
 
 ---
 
 ### Review Questions
-- How do you define and modify lists in Python?
-- Give an example of a scenario where filtering would be useful.
-- Describe what the efficiency of filtering means.
+- Explain what lists are in Python, including how to modify and manipulate them.
+- Provide a real-world scenario where a filtering algorithm might be applied.
+- Discuss why analyzing the efficiency of filtering algorithms is important for software development.
 
 ---
 
-**Submission:** Submit your solutions and review question responses on the slack MCQ Form by Thrusday 11:59 PM.
+**Submission:** Submit your detailed code implementations and thoughtful answers to the review questions on the assignment portal before our next class meeting.
 
