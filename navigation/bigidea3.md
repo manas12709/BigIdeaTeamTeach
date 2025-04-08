@@ -114,5 +114,5 @@ Develop a function named `filter_long_names` that:
 
 ---
 
-**Submission:** Submit your detailed code implementations and thoughtful answers to the review questions on the assignment portal before our next class meeting.
+**Submission:** Submit your detailed code implementations and thoughtful answers to the review questions on the MCQ form by 4/10 at 11:59 PM. 
 
